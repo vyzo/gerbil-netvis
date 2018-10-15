@@ -1,0 +1,1 @@
+(package: vyzo depend: ("github.com/vyzo/gerbil-cairo"))
